@@ -1,0 +1,43 @@
+        body {
+            font-family: "Roboto", sans-serif;
+            font-weight: 300;
+            color: #707070;
+        }
+        
+        h1,
+        h2,
+        h3,
+        h4,
+        h5,
+        h6 {
+            font-weight: 300;
+            color: #212529;
+        }
+        
+        .navbar {
+            background-color: rgb(40, 167, 69, 1)
+        }
+        
+        .navbar-nav {
+            margin-left: auto;
+        }
+        
+        .card {
+            margin: 2rem;
+        }
+        
+        #form {
+            background-color: rgb(40, 167, 69, 1);
+            margin: auto;
+        }
+        
+        #form h5 {
+            color: white;
+            font-family: "Roboto";
+            font-size: 21px
+        }
+        
+        .card-footer long {
+            color: rgb(40, 167, 69, 1);
+            font-size: x-large;
+        }
